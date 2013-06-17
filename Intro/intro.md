@@ -1,1 +1,3 @@
-This is where the intro will go. It will be about the state of things with drones and journalism. This is a test of Prose.io
+#Introduction
+
+Let's be clear: There are few places on Earth where Drone Journalism is legal. There are few countries with established aviation policy that allows for the commercial use of unmanned aerial vehicles, known as drones.

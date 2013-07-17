@@ -3,7 +3,8 @@ Table of Contents
 
 ### Technology
 
-* 1.1 Intro
-* 1.2 State of the art
-* 1.3 History
-* 1.4 More examples
+* 1.0 Intro
+* 1.1 State of the art
+* 1.2 History
+* 1.3 The word "drone"
+* 1.4 More Examples

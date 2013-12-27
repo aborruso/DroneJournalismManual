@@ -10,4 +10,6 @@ This manual will attempt to begin to codify the practice of using small flying v
 
 The laws surrounding the commerical use of UAVs are going to change dramatically over the next few years. This manual's hosting on GitHub is no accident. It will be updated iteratively. Your input is welcome. 
 
-This first version is a prototype, funded by a grant from the Knight Foundation. 
+The first versions are a prototype, funded by a grant from the __Knight Foundation__. Significant revisions will occur when the US Federal Aviation Administration files it's notice of proposed rulemaking (NPRM) regarding small UAVs in the first quarter of 2014 (estimated). 
+
+##Current version: 0.0##
